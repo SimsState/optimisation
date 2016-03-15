@@ -6,3 +6,16 @@ h1 {
 	font-family: Impact;
 	font-size: 20px;
 }
+
+.marketing row{
+	margin-top: 1em;
+}
+
+.footer{
+	font-size:10px;
+	color:#f00;
+}
+
+img{
+	width:300px;
+}
